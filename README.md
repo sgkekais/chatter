@@ -8,7 +8,7 @@
 <a href="https://packagist.org/packages/tcg/voyager"><img src="https://poser.pugx.org/devdojo/chatter/license.svg?format=flat" alt="License"></a>
 </p>
 
-# Laravel Forum Package - Chatter
+# Laravel Forum Package - Chatter FORK
 
 ### Installation
 
