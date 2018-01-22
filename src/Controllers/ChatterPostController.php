@@ -212,7 +212,7 @@ class ChatterPostController extends Controller
 
             return redirect('/'.config('chatter.routes.home'))->with([
                 'chatter_alert_type' => 'success',
-                'chatter_alert'      => 'Antwort und '.strtolower(config('chatter.titles.discussion')).' erfolgreich gelöscht.',
+                'chatter_alert'      => 'Antwort und '.config('chatter.titles.discussion').' erfolgreich gelöscht.',
             ]);
         }
 
